@@ -1,7 +1,7 @@
 # Flipkart Landing Page
 
 <h4>:wave: Hey There.! </h4>
-- :octocat: My Self Samarth dadhaniya. <br>
+- :octocat: My Self Samarth Dadhaniya. <br>
 
 - 🌱 I’m currently learning - React.Js<br>
 
@@ -15,11 +15,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode)](https://skillicons.dev) <br><br>
 
 
-<h2>Screenshots</h2>
+<h2>Screenshot</h2>
  <img style="border: 3px solid black"; src="https://user-images.githubusercontent.com/71020225/212264675-cba12623-4696-4edc-a7e1-feed3a177d86.png" alt="">
 <br>
 
-<h2>Check Live Demo</h2>
+<h2>Check Live</h2>
 https://samarthdadhaniya.github.io/Flipkart-Landing-Page/
 <br><br>
 
