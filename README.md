@@ -17,7 +17,7 @@
 
 <h2>Screenshots</h2>
  <img style="border: 3px solid black"; src="https://user-images.githubusercontent.com/71020225/212264675-cba12623-4696-4edc-a7e1-feed3a177d86.png" alt="">
-<br><br>
+<br>
 
 <h2>Check Live Demo</h2>
 https://samarthdadhaniya.github.io/Flipkart-Landing-Page/
