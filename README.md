@@ -7,7 +7,7 @@
 
 - 🥅 2023 Goal - Learn Trending Tech And Improve My Knowledge.<br>
 
-- 🔭In this Reposetory You Will find a simple Flipkart landing page.<br><br>
+- 🔭 In this Reposetory You Will find a simple Flipkart landing page.<br><br>
 
 <h2>Tech Stack</h2>
 - This Project is Build With Some Famous Tech And Tools Which Are Mentioned Below... :point_down: <br><br>
