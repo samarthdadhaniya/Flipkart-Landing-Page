@@ -282,7 +282,7 @@ body {
     margin-top: 2px;
     margin-left: 130px;
     margin-right: 130px;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
     display:flex ;
     justify-content: space-between;
     align-items: center;
