@@ -313,7 +313,6 @@ body {
     width: 220px;
     height: 123%;
     margin-bottom: 55px;
-    
     border-left: 10px solid #f1f3f6;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -563,6 +562,11 @@ body {
         height: 45px;
     }
 
+    .item_bar
+    {
+        width: 100%;
+    }
+
 }
 
 @media(max-width: 1205px){
@@ -604,6 +608,11 @@ body {
     .des-item
     {
         height: 41px;
+    }
+
+    .item_bar
+    {
+        width: 100%;
     }
 
 }
@@ -650,5 +659,9 @@ body {
         height: 38px;
     }
 
+    .item_bar
+    {
+        width: 100%;
+    }
 
 }
