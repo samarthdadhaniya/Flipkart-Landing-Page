@@ -109,6 +109,7 @@ body {
 .dropdown {
     /* float: left; */
     overflow: hidden;
+    cursor: pointer;
 }
 
 .dropdown .dropbtn {
@@ -119,6 +120,7 @@ body {
     padding: 14px 16px;
     background-color: inherit;
     margin: 0;
+    cursor: pointer;
 }
 
 .dropdown-menu {
@@ -254,6 +256,7 @@ body {
 
 .dropdown-Category {
     overflow: hidden;
+    cursor: pointer;
 }
 
 .dropdown-Category .dropbtn-Category {
@@ -300,6 +303,7 @@ body {
     border: #fff;
     background-color: #fff;
     box-shadow: 2px 1px 4px 1px rgba(0, 0, 0, 0.336);
+    cursor: pointer;
 }
 
 #right {
@@ -308,6 +312,7 @@ body {
     border: #fff;
     background-color: #fff;
     box-shadow: -2px 1px 4px 1px rgba(0, 0, 0, 0.336);
+    cursor: pointer;
 }
 
 
@@ -419,6 +424,7 @@ body {
     padding: 10px;
     justify-content: space-between;
     align-items: center;
+
 }
 
 .des{
@@ -454,6 +460,7 @@ body {
     border-radius: 3px;
     background-color: #2874f0;
     align-items: center;
+    cursor: pointer;
 }
 
 .poster_second_section {
