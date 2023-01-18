@@ -22,7 +22,8 @@ body {
 .nav-bar {
     
     background-color: #2874f0;
-    z-index: 0;
+    /* z-index: 0; */
+    width: 200vh;
 }
 
 .non {
@@ -672,5 +673,4 @@ body {
     {
         width: 100%;
     }
-
 }

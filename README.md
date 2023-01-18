@@ -1,12 +1,7 @@
 # Flipkart Landing Page
 
-<h4>:wave: Hey There.! </h4>
-- :octocat: My Self Samarth Dadhaniya. <br>
-
-- 🌱 I’m currently learning - React.Js<br>
-
-- 🥅 2023 Goal - Learn Trending Tech And Improve My Knowledge.<br>
-
+<h2>:octocat: Hey There.! :wave:</h2>
+<br>
 - 🔭 In this Reposetory You Will find a simple Flipkart landing page.<br><br>
 
 <h2>Tech Stack</h2>
