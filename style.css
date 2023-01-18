@@ -1,5 +1,6 @@
 #container {
     height: 100%;
+    width: auto;
 }
 
 * {
@@ -17,13 +18,13 @@ body {
     background-color: #f1f3f6;
     color: #212121;
     line-height: 1.6;
+    /* width: 100vh; */
 }
 
 .nav-bar {
     
     background-color: #2874f0;
-    /* z-index: 0; */
-    width: 200vh;
+    overflow: hidden;
 }
 
 .non {
@@ -231,6 +232,13 @@ body {
     box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
     background-color: #ffff;
     height: 120px;
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+}
+
+.item_bar::-webkit-scrollbar
+{
+    display: none;
 }
 
 .navbar-item img {
